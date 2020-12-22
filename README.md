@@ -22,6 +22,5 @@ I'm a software engineer, cybersecurity consultant and networking expert.
 ### 📈 GitHub Stats
 
 [![Danielcshn's github stats](https://github-readme-stats.vercel.app/api?username=danielcshn&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcshn&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=danielcshn&color=blue&style=flat-square&label=visitors" align="right" />
