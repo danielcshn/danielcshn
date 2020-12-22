@@ -17,8 +17,6 @@ I'm a software engineer, cybersecurity consultant and networking expert.
 - DDoS mitigation
 - Anycast, tunneling and weird networking stuff
 
-<br/>
-
 ### 📈 GitHub Stats
 
 [![Danielcshn's github stats](https://github-readme-stats.vercel.app/api?username=danielcshn&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
