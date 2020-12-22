@@ -1,5 +1,4 @@
 ### Hi <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30px">
-<br/>
 
 I'm a software engineer, cybersecurity consultant and networking expert.
 <br/>
