@@ -18,7 +18,7 @@ I'm a software engineer, cybersecurity consultant and networking expert.
 
 ### 📈 GitHub Stats
 
-![](https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/languages.svg)
 
 <img src="https://komarev.com/ghpvc/?username=danielcshn&color=blue&style=flat-square&label=visitors" align="right" />
