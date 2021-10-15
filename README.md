@@ -16,6 +16,12 @@ I'm a software engineer, cybersecurity consultant and networking expert.
 - DDoS mitigation
 - Anycast, tunneling and weird networking stuff
 
+### 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kript4&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kript4&redirect=true)
+
+
+
 ### 📈 GitHub Stats
 
 ![](https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/overview.svg)
