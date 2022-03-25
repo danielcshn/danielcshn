@@ -19,7 +19,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/HybridNetworks/BlackListBox"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a> <a href="https://github.com/danielcshn/wpa-colab"><img width="282" h src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&hide_border=true&bg_color=212529&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="wpa-colab"></a> <a href="https://github.com/danielcshn/LCD-Keyboard-Kali"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=danielcshn&repo=LCD-Keyboard-Kali&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="LCD-Keyboard-Kali"></a>
+  <a href="https://github.com/HybridNetworks/BlackListBox"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a> <a href="https://github.com/danielcshn/wpa-colab"><img width="282" h src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&hide_border=true&bg_color=212529&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="wpa-colab"></a>
 
 <p align="left">
   <a href="https://github.com/danielcshn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -30,7 +30,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/hellzerg/optimizer"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a> <a href="https://github.com/danielcshn/routeros-scanner"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="routeros-scanner"></a> <a href="https://github.com/danielcshn/LCD-show-kali"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lcdwiki&repo=LCD-show-kali&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="LCD-show-kali"></a>
+  <a href="https://github.com/hellzerg/optimizer"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a> <a href="https://github.com/danielcshn/routeros-scanner"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="routeros-scanner"></a>
 </p>
 
 <p align="left">
@@ -66,16 +66,18 @@
 
 ## 🎧 Spotify Playing
 
+<!-- https://github.com/kittinan/spotify-github-profile -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kript4&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kript4&redirect=true)
-
-
 
 ## 📈 Github stats
 
 <!-- https://github.com/jstrieb/github-stats -->
-
+<div align="center">
+  
 ![](https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg)
 
+</div>
+  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=danielcshn&bg_color=212529&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
