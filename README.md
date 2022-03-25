@@ -1,22 +1,45 @@
-### Hi <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30px">
 
-I'm a software engineer, cybersecurity consultant and networking expert.
-<br/>
+<h3 align="center">
+  Welcome to Daniel's profile!
+  <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30px">
+</h3>
 
-### 🚨 Cybersecurity
-- Ethical Hacking
-- Security Assesments
 
-### 🌐 Networking
-- Networking Strategy
-- Small and medium ISP/WISP capacity planning
-- Traffic engineering (packet shaping, QoS, eBGP)
-- IPTV stuff (EPG implementation, MPEG-TS encapsulation, multicast distribution)
-- IPv6 deployment from backbone to customer edge (FTTx)
-- DDoS mitigation
-- Anycast, tunneling and weird networking stuff
+<div align="center">
 
-### ➡️ Technology Stack:
+<!--- https://readme-typing-svg.herokuapp.com --->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=Software+Engineer;Networking+Expert;Cybersecurity+Consultant)](https://git.io/typing-svg)
+ 
+![](https://komarev.com/ghpvc/?username=danielcshn&color=007bff&label=Profile+Views&style=for-the-badge)
+ 
+</div>
+
+## 📘 My top open source projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/HybridNetworks/BlackListBox"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a> <a href="https://github.com/danielcshn/wpa-colab"><img width="282" h src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&hide_border=true&bg_color=212529&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="wpa-colab"></a> <a href="https://github.com/danielcshn/LCD-Keyboard-Kali"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=danielcshn&repo=LCD-Keyboard-Kali&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="LCD-Keyboard-Kali"></a>
+
+<p align="left">
+  <a href="https://github.com/danielcshn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+## 📕 Top projects I've contributed to
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/hellzerg/optimizer"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a> <a href="https://github.com/danielcshn/routeros-scanner"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="routeros-scanner"></a> <a href="https://github.com/danielcshn/LCD-show-kali"><img width="282" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lcdwiki&repo=LCD-show-kali&theme=react&bg_color=212529&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="LCD-show-kali"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/danielcshn?tab=repositories&q=&type=fork&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+</p>
+
+
+
+## 👨‍💻 Technology Stack
 
 <div align="left">
 <a href="https://www.google.com/search?q=Visual+Basic+.NET"><img width="34px" height="34px" alt="Visual Basic .NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
@@ -40,15 +63,19 @@ I'm a software engineer, cybersecurity consultant and networking expert.
 </div>
  
 
-### 🎧 Spotify Playing
+
+## 🎧 Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kript4&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kript4&redirect=true)
 
 
 
-### 📈 GitHub Stats
+## 📈 Github stats
 
-![](https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/languages.svg)
+<!-- https://github.com/jstrieb/github-stats -->
 
-<img src="https://komarev.com/ghpvc/?username=danielcshn&color=blue&style=flat-square&label=visitors" align="right" />
+![](https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg)
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=danielcshn&bg_color=212529&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
