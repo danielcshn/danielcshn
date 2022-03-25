@@ -43,7 +43,7 @@
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
-<img src="https://skillicons.dev/icons?i=visualstudio,dotnet,java,py,firebase,html,css,js,jquery,php,bootstrap,mysql,swift,unity,git,perl,bash&theme=light&perline=10" />
+<img src="https://skillicons.dev/icons?i=visualstudio,dotnet,java,py,firebase,html,css,js,jquery,php,bootstrap,mysql,androidstudio,swift,unity,git,perl,bash&theme=light&perline=10" />
 
 <!-- <div align="left">
 <a href="https://www.google.com/search?q=Visual+Basic+.NET"><img width="34px" height="34px" alt="Visual Basic .NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
