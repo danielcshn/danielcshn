@@ -42,9 +42,12 @@
 ## 👨‍💻 Technology Stack
 
 <!-- https://github.com/tandpfun/skill-icons -->
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,java,py,firebase,html,css,js,jquery,php,bootstrap,mysql,androidstudio,swift,unity,git,perl,bash,arduino,raspberrypi&theme=light&perline=10" />
 
+</div>
+  
 <!-- <div align="left">
 <a href="https://www.google.com/search?q=Visual+Basic+.NET"><img width="34px" height="34px" alt="Visual Basic .NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
 <a href="https://www.google.com/search?q=Android+Studio"><img width="34px" height="34px" alt="Android Studio" src="https://developer.android.com/studio/images/studio-icon-preview.svg" /></a>
@@ -70,9 +73,13 @@
 
 ## 🎧 Spotify Playing
 
+<div align="center">
+
 <!-- https://github.com/kittinan/spotify-github-profile -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kript4&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kript4&redirect=true)
 
+</div>
+  
 ## 📈 Github stats
 
 <!-- https://github.com/jstrieb/github-stats -->
