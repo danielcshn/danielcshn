@@ -18,8 +18,8 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/HybridNetworks/BlackListBox"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=161b22&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a> <a href="https://github.com/danielcshn/wpa-colab"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&hide_border=true&bg_color=161b22&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="wpa-colab"></a> <a href="https://github.com/danielcshn/whatsapp-cidr"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=whatsapp-cidr&hide_border=true&bg_color=161b22&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="whatsapp-cidr"></a>
+<p align="center">
+  <a href="https://github.com/HybridNetworks/BlackListBox"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=30363d&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a> <a href="https://github.com/danielcshn/wpa-colab"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&hide_border=true&bg_color=30363d&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="wpa-colab"></a> <a href="https://github.com/danielcshn/whatsapp-cidr"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=whatsapp-cidr&hide_border=true&bg_color=30363d&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="whatsapp-cidr"></a>
 
 <p align="left">
   <a href="https://github.com/danielcshn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -29,8 +29,8 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/hellzerg/optimizer"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=161b22&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a> <a href="https://github.com/microsoft/routeros-scanner"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=161b22&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="routeros-scanner"></a> <a href="https://github.com/tandpfun/skill-icons"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tandpfun&repo=skill-icons&theme=react&bg_color=161b22&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="skill-icons"></a>
+<p align="center">
+  <a href="https://github.com/hellzerg/optimizer"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=30363d&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a> <a href="https://github.com/microsoft/routeros-scanner"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=30363d&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="routeros-scanner"></a> <a href="https://github.com/tandpfun/skill-icons"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tandpfun&repo=skill-icons&theme=react&bg_color=30363d&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="skill-icons"></a>
 </p>
 
 <p align="left">
@@ -91,4 +91,4 @@
 </div>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=danielcshn&bg_color=161b22&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=danielcshn&bg_color=30363d&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
