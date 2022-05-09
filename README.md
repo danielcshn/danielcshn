@@ -44,7 +44,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=visualstudio,dotnet,java,py,firebase,html,css,js,jquery,php,bootstrap,mysql,androidstudio,swift,unity,git,perl,bash,arduino,raspberrypi&theme=light&perline=10" />
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,dotnet,java,py,firebase,html,css,js,jquery,php,bootstrap,mysql,androidstudio,swift,unity,git,perl,bash,arduino,raspberrypi&theme=light&perline=10)](https://skillicons.dev)
 
 </div>
   
