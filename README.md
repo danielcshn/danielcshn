@@ -85,8 +85,8 @@
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
   
-![](https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
   
