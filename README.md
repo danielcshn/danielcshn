@@ -82,6 +82,12 @@
   
 ## 📈 Github stats
 
+<!-- https://github.com/marketplace/actions/github-profile-3d-contrib -->
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img alt="danielcshn's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/profile-3d-contrib/profile-night-green.svg" /></a>
+  
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=danielcshn&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
+
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
   
@@ -89,9 +95,3 @@
 ![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
-  
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=danielcshn&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
-
-<!-- https://github.com/marketplace/actions/github-profile-3d-contrib -->
-<a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img alt="danielcshn's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/profile-3d-contrib/profile-night-green.svg" /></a>
