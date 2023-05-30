@@ -86,7 +86,7 @@
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img alt="danielcshn's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/profile-3d-contrib/profile-night-green.svg" /></a>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=danielcshn&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danielcshn&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
 
 
 
