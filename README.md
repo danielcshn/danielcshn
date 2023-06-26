@@ -101,8 +101,22 @@
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
   
-![](https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![]()
+![]()
+
+<a href="https://github.com/jstrieb/github-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <img alt="danielcshn's github-stats" src="https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg">
+</picture>
+</a>
+
+<a href="https://github.com/jstrieb/github-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+  <img alt="danielcshn's github-stats" src="https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg">
+</picture>
+</a>
 
 </div>
 
