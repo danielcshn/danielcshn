@@ -100,21 +100,18 @@
 
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
-  
-![]()
-![]()
 
 <a href="https://github.com/jstrieb/github-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="danielcshn's github-stats" src="https://github.com/danielcshn/github-stats/blob/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img alt="danielcshn's github-stats" src="https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/overview.svg">
 </picture>
 </a>
 
 <a href="https://github.com/jstrieb/github-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <img alt="danielcshn's github-stats" src="https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img alt="danielcshn's github-stats" src="https://raw.githubusercontent.com/danielcshn/github-stats/master/generated/languages.svg">
 </picture>
 </a>
 
