@@ -82,7 +82,7 @@
   
 ## 📈 Github stats
 
-<!-- Specify theme context for images in Markdown (Beta): https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/ -->
+<!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcshn/danielcshn/master/profile-3d-contrib/profile-night-view.svg">
@@ -91,9 +91,12 @@
 </a>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielcshn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danielcshn&bg_color=00000f&color=007bff&line=fac539&point=FFFFFF&hide_border=true" /></a>
-
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=danielcshn&bg_color=00000f&color=007bff&line=fac539&point=FFFFFF&hide_border=true">
+  <img alt="danielcshn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danielcshn&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true">
+</picture>
+</a>
 
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
@@ -102,3 +105,5 @@
 ![](https://github.com/danielcshn/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
+
+<!-- Specify theme context for images in Markdown (Beta): https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/ -->
