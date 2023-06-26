@@ -18,9 +18,53 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+
 <p align="center">
-  <a href="https://github.com/HybridNetworks/BlackListBox"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a> <a href="https://github.com/danielcshn/wpa-colab"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="wpa-colab"></a> <a href="https://github.com/HybridNetworks/whatsapp-cidr"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=whatsapp-cidr&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="whatsapp-cidr"></a><a href="https://github.com/danielcshn/dude-install.sh"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=dude-install.sh&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="whatsapp-cidr"></a> <a href="https://github.com/danielcshn/nextproxy"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=nextproxy&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="nextproxy"></a> <a href="https://github.com/danielcshn/autoipchanger"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=autoipchanger&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="autoipchanger"></a>
-  
+
+<a href="https://github.com/HybridNetworks/BlackListBox">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="BlackListBox" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=BlackListBox&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/danielcshn/wpa-colab">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false">
+  <img width="272" height="135" alt="wpa-colab" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=wpa-colab&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/HybridNetworks/whatsapp-cidr">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=whatsapp-cidr&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false">
+  <img width="272" height="135" alt="whatsapp-cidr" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=whatsapp-cidr&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/danielcshn/dude-install.sh">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=dude-install.sh&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false">
+  <img width="272" height="135" alt="dude-install.sh" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=dude-install.sh&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/danielcshn/nextproxy">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=nextproxy&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false">
+  <img width="272" height="135" alt="nextproxy" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=nextproxy&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/danielcshn/autoipchanger">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=autoipchanger&hide_border=true&bg_color=00000f&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false">
+  <img width="272" height="135" alt="autoipchanger" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=danielcshn&repo=autoipchanger&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+</p>
+
 <p align="left">
   <a href="https://github.com/danielcshn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
