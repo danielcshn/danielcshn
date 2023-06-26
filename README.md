@@ -74,7 +74,42 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
- <a href="https://github.com/rustdesk/rustdesk"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rustdesk&repo=rustdesk&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="rustdesk"></a> <a href="https://github.com/hellzerg/optimizer"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a> <a href="https://github.com/microsoft/routeros-scanner"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="routeros-scanner"></a> <a href="https://github.com/tandpfun/skill-icons"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tandpfun&repo=skill-icons&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="skill-icons"></a> <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yoshi389111&repo=github-profile-3d-contrib&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="GitHub Profile 3D Contrib."></a>
+
+<a href="https://github.com/rustdesk/rustdesk">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rustdesk&repo=rustdesk&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="rustdesk" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rustdesk&repo=rustdesk&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/hellzerg/optimizer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="optimizer" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hellzerg&repo=optimizer&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/microsoft/routeros-scanner">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="routeros-scanner" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=routeros-scanner&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/tandpfun/skill-icons">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tandpfun&repo=skill-icons&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="skill-icons" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tandpfun&repo=skill-icons&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yoshi389111&repo=github-profile-3d-contrib&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="GitHub Profile 3D Contrib." src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yoshi389111&repo=github-profile-3d-contrib&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
 </p>
 
 <p align="left">
