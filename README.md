@@ -110,6 +110,13 @@
 </picture>
 </a>
 
+<a href="https://github.com/HybridNetworks/MimosaDiscoveryTool">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=MimosaDiscoveryTool&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="Device Discovery Tool for Mimosa by Airspan Devices." src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HybridNetworks&repo=MimosaDiscoveryTool&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
 </p>
 
 <p align="left">
