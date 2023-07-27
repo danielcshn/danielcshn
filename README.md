@@ -1,3 +1,4 @@
+<div id="top"></div>
 
 <h3 align="center">
   Welcome to Daniel's profile!
@@ -209,4 +210,14 @@
   <a href="https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/">
   <img alt="Dark/Light Readme Support!" title="Dark/Light Readme Support!" src="https://custom-icon-badges.demolab.com/badge/-Dark/Light%20Readme%20Support!-gold?style=for-the-badge&logo=repo-template&logoColor=black"/></a>
   <br>
+</p>
+
+<!-- Back to Top -->
+<p align="right">
+<a href="#top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/arrow-square-up-fac539.svg">
+  <img alt="back to top" width="30px" height="30px" src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/arrow-square-up-47a042.svg">
+</picture>
+</a>
 </p>
