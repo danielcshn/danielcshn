@@ -213,6 +213,12 @@
 </p>
 
 <!-- Back to Top -->
+<!-- Arrow Square Up SVG Vector
+COLLECTION: Dazzle Line Icons
+LICENSE: CC Attribution License
+AUTHOR: Dazzle UI
+URL: https://www.svgrepo.com/svg/533629/arrow-square-up
+ -->
 <p align="right">
 <a href="#top">
 <picture>
