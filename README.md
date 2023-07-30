@@ -165,6 +165,11 @@
 <!-- https://github.com/kittinan/spotify-github-profile -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kript4&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kript4&redirect=true)
 
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=kript4&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
+
 </div>
   
 ## 📈 Github stats
