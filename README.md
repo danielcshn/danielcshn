@@ -163,7 +163,7 @@
 <div align="center">
 
 <!-- https://github.com/kittinan/spotify-github-profile -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31337mrqvyn6j3cstipg5ysmeniu&cover_image=true&theme=novatorem&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31337mrqvyn6j3cstipg5ysmeniu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31337mrqvyn6j3cstipg5ysmeniu&redirect=true)
 
 <details>
     <summary>Recently played</summary>
