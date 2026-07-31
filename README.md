@@ -163,11 +163,11 @@
 <div align="center">
 
 <!-- https://github.com/kittinan/spotify-github-profile -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kript4&cover_image=true&theme=novatorem&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31337mrqvyn6j3cstipg5ysmeniu&cover_image=true&theme=novatorem&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <details>
     <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=kript4&unique=true&count=10" alt="Spotify recently played"></a>
+    <a href="https://open.spotify.com/user/31337mrqvyn6j3cstipg5ysmeniu"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31337mrqvyn6j3cstipg5ysmeniu&unique=true&count=10" alt="Spotify recently played"></a>
 </details>
 
 </div>
